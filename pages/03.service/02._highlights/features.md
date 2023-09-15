@@ -23,8 +23,8 @@ features:
 	  icon: fa fa-life-ring
 ---
 
-# Let Alyvix Service manage your tests.
-## See the results in your monitoring system.
+# Let Alyvix Service manage your tests
+## See the results in your monitoring system
 
 **Schedule end-user bots** continuously and in parallel, while keeping your Windows RDP sessions up and running.
 
