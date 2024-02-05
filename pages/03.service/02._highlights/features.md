@@ -4,7 +4,7 @@ menu: Service
 class: offset-box
 features:
 	- header: Session Management
-	  text: "Keep multiple Windows Server sessions alive"
+	  text: "Keep multiple Windows Service sessions alive"
 	  icon: fa fa-windows
 	- header: Test Case Scheduling
       text: "Run your test cases continuously and in parallel"
