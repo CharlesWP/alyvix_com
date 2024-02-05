@@ -4,6 +4,15 @@
     }
 }
 
+h2 {
+    margin-top: 0; /* Space above callout titles */
+}
+
+/* Fonts */
+code, kbd, pre, samp {
+    font-family: "Inter Mono", "SF Mono", "Segoe UI Mono", Menlo, Courier, monospace;
+    font-size: 1em;
+}
 body {
     background: #fff;
     color: #50596c;
@@ -16,9 +25,6 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 2rem;
     font-family: "Inter", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", "Arial", sans-serif;
     color: #3a414e;
-}
-h2 {
-    margin-top: 0; /* Space above callout titles */
 }
 html:lang(zh), html:lang(zh-Hans), .lang-zh, .lang-zh-hans {
     font-family: "Inter", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", "Arial", sans-serif;
