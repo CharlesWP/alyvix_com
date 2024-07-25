@@ -2,10 +2,10 @@
 .idea
 
 # Private files for security and SEO
-.htaccess
-robots.txt
-security.yaml
-sitemap.xml
+/.htaccess
+/robots.txt
+/security.yaml
+/sitemap.xml
 
 
 # received contact forms
