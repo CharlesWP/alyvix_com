@@ -71,6 +71,9 @@ html:lang(ko), .lang-ko {
     color: #972EFF;
     background: #EAD5FF;
 }
+.menu-item .menu-badge .label {
+  color:white;
+}
 
 /* Menus */
 div.mobile-menu div.button_container span {

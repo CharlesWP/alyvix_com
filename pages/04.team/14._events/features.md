@@ -14,6 +14,8 @@ menu: Events
 [/owl-carousel]
 
 
+<span>21. </span><b><a href="https://www.wuerth-phoenix.com/neteye-insights/neteye-user-group-it-2024">Würth Phoenix User Group</a> 2024</b> <br class="small_screen">September 26, Verona, Italy<br>
+<span>20. </span><b><a href="https://www.wuerth-phoenix.com/it/neteye-insights/neteye-user-group-2023">Würth Phoenix User Group</a> 2023</b> <br class="small_screen">September 28, Soave (VR), Italy<br>
 <span>19. </span><b><a href="https://www.wuerth-phoenix.com/neteye-insights/neteye-user-group-it-2022">Würth Phoenix User Group</a> 2022</b> <br class="small_screen">November 9, Verona, Italy<br>
 <span>18. </span><b><a href="https://www.wuerth-phoenix.com/en/neteye-insights/neteye-user-group-it-2021/page">Würth Phoenix User Group</a> Virtual, 2021</b><br>
 <span>17. </span><b><a href="https://www.wuerth-phoenix.com/en/support/neteye-user-group/page">Würth Phoenix User Group</a> Virtual, 2020</b><br>
