@@ -1,6 +1,6 @@
 ---
 title: Alyvix Service Step 4
-menu: Integrations
+menu: Dashboards
 image_align: left
 ---
 
